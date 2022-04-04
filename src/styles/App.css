@@ -10,3 +10,9 @@ button{
     justify-content: center;
     align-items: center;
 }
+.container {
+    display: grid;
+    row-gap: 10px;
+    justify-content: center;
+    margin-top: 100px;
+}
